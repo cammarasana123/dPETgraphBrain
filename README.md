@@ -3,9 +3,9 @@ Animated results for graph brain simulation on dPET.
 
 We include:
 
--Dataset with 2D videos, graph representation, and signal mapping on MRI segmentation
--Model terms, including source term and reaction term
--Signal reconstruction, including graph representation and signal mapping on MRI segmentation
+- Dataset with 2D videos, graph representation, and signal mapping on MRI segmentation
+- Model terms, including source term and reaction term
+- Signal reconstruction, including graph representation and signal mapping on MRI segmentation
 
 # Acknowledgements
 Dataset provided by:
